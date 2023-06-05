@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+4d769cd801d31269c50ba7d82d7f2bcca185e3b3 refs/remotes/origin/final-app-js
+56d33bf0b220655e9b3eeb2d0a4c68ade66fa083 refs/remotes/origin/initial-app
+85a8b62f1fc23a4752465e16b24f860b242ac3a5 refs/remotes/origin/main
+9696fb9458f07cf0f1dc1f4a7db7ef50d7598d4b refs/remotes/origin/tutorial_private
+732f6c63a2a4485406439b7bf51a6b40f1d9fb06 refs/remotes/origin/typescript-01

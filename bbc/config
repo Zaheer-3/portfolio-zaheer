@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://Zaheer-3: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@github.com/Zaheer-3/portfolio-zaheer.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
